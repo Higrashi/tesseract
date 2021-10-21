@@ -1,0 +1,17 @@
+span {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 5px;
+}
+
+span:hover {
+    border-color: rgb(104, 104, 104);
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
